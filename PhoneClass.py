@@ -8,3 +8,4 @@ class Phone:
         self._manufact = input("Enter the manufacturer: ")
 
     def set_model
+    
